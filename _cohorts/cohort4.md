@@ -6,7 +6,7 @@ permalink: /rsaians/
 display_name: "RSAians"
 start_date: "14th Feb 2026"
 end_date: ""
-status: "Active" #"Upcoming"
+status: "Completed" #"Upcoming"
 dashboard_available: true
 color: "4F46E5"
 schedule:

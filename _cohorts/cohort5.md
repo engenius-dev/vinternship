@@ -6,7 +6,7 @@ permalink: /aksians/
 display_name: "AKSians"
 start_date: "20th Feb 2026"
 end_date: ""
-status: "Active" #"Upcoming"
+status: "Completed" #"Upcoming"
 dashboard_available: true
 color: "2C3E50"
 schedule:
